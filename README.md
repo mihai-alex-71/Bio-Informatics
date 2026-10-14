@@ -27,4 +27,18 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
     <td>Exercise 2</td>
     <td>Tm with the salt-adjusted formula</td>
   </tr>
+  <tr>
+    <td rowspan="3"><b>Lab 3</b></td>
+    <td>Exercise 1</td>
+    <td>Translation of RNA into proteins (genetic code)</td>
+    <td rowspan="3"><a href="lab3/lab3.ipynb">lab3.ipynb</a></td>
+  </tr>
+  <tr>
+    <td>Exercise 2</td>
+    <td>Codon frequencies in the E. coli genome (sliding window)</td>
+  </tr>
+  <tr>
+    <td>Exercise 3</td>
+    <td>Amino acids of the top 10 codons and food recommendations</td>
+  </tr>
 </table>

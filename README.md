@@ -12,6 +12,12 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
     <th>File</th>
   </tr>
   <tr>
+    <td><b>Lab 1</b></td>
+    <td>Exercise 1</td>
+    <td>Sequence alphabet and relative frequencies</td>
+    <td><a href="lab1/lab1.ipynb">lab1.ipynb</a></td>
+  </tr>
+  <tr>
     <td rowspan="2"><b>Lab 2</b></td>
     <td>Exercise 1</td>
     <td>Tm with the basic formula</td>

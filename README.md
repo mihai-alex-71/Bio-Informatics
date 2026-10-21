@@ -41,4 +41,10 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
     <td>Exercise 3</td>
     <td>Amino acids of the top 10 codons and food recommendations</td>
   </tr>
+  <tr>
+    <td><b>Lab 4</b></td>
+    <td>Exercise 1</td>
+    <td>Rebuilding a genome from 2000 random samples (sequence assembly)</td>
+    <td><a href="lab4/lab4.ipynb">lab4.ipynb</a></td>
+  </tr>
 </table>

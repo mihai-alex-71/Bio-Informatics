@@ -47,4 +47,14 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
     <td>Rebuilding a genome from 2000 random samples (sequence assembly)</td>
     <td><a href="lab4/lab4.ipynb">lab4.ipynb</a></td>
   </tr>
+  <tr>
+    <td rowspan="2"><b>Lab 5</b></td>
+    <td>Exercise 1</td>
+    <td>Simulating DNA fragment migration on an electrophoresis gel</td>
+    <td rowspan="2"><a href="lab5/lab5.ipynb">lab5.ipynb</a></td>
+  </tr>
+  <tr>
+    <td>Exercise 2</td>
+    <td>Detecting tandem repeats of 6-10 bases (repeated unit of 3-5 bases)</td>
+  </tr>
 </table>

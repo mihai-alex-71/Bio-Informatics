@@ -57,4 +57,14 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
     <td>Exercise 2</td>
     <td>Detecting tandem repeats of 6-10 bases (repeated unit of 3-5 bases)</td>
   </tr>
+  <tr>
+    <td rowspan="2"><b>Lab 6</b></td>
+    <td>Exercise 1</td>
+    <td>Detecting transposable elements (start, end) in an artificial DNA sequence, including intersecting ones</td>
+    <td rowspan="2"><a href="lab6/lab6.ipynb">lab6.ipynb</a></td>
+  </tr>
+  <tr>
+    <td>Exercise 2</td>
+    <td>Searching a real viral genome from NCBI (phage Mu) for transposon-like regions</td>
+  </tr>
 </table>

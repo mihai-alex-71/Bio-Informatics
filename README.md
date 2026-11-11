@@ -68,10 +68,10 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
     <td>Searching a real viral genome from NCBI (phage Mu) for transposon-like regions</td>
   </tr>
   <tr>
-    <td rowspan="3"><b>Lab 7</b></td>
+    <td rowspan="4"><b>Lab 7</b></td>
     <td>Exercise 1</td>
     <td>DNA sequence from NCBI between 1000 and 3000 nucleotides (Porcine circovirus 1)</td>
-    <td rowspan="3"><a href="lab7/lab7.ipynb">lab7.ipynb</a></td>
+    <td rowspan="4"><a href="lab7/lab7.ipynb">lab7.ipynb</a></td>
   </tr>
   <tr>
     <td>Exercise 2</td>
@@ -80,5 +80,9 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
   <tr>
     <td>Exercise 3</td>
     <td>Digesting 2 genomes from NCBI (phage lambda, phiX174) with 3 restriction enzymes each</td>
+  </tr>
+  <tr>
+    <td>Homework</td>
+    <td>Digesting 2 versions of the same virus (HIV-1 HXB2 and NL4-3) and comparing them on the same gel</td>
   </tr>
 </table>

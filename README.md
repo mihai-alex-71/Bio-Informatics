@@ -67,4 +67,18 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
     <td>Exercise 2</td>
     <td>Searching a real viral genome from NCBI (phage Mu) for transposon-like regions</td>
   </tr>
+  <tr>
+    <td rowspan="3"><b>Lab 7</b></td>
+    <td>Exercise 1</td>
+    <td>DNA sequence from NCBI between 1000 and 3000 nucleotides (Porcine circovirus 1)</td>
+    <td rowspan="3"><a href="lab7/lab7.ipynb">lab7.ipynb</a></td>
+  </tr>
+  <tr>
+    <td>Exercise 2</td>
+    <td>Restriction enzymes (name, recognition sequence, cleavage site): digestion and electrophoresis gel</td>
+  </tr>
+  <tr>
+    <td>Exercise 3</td>
+    <td>Digesting 2 genomes from NCBI (phage lambda, phiX174) with 3 restriction enzymes each</td>
+  </tr>
 </table>

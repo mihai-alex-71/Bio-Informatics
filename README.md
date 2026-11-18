@@ -85,4 +85,14 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
     <td>Homework</td>
     <td>Digesting 2 versions of the same virus (HIV-1 HXB2 and NL4-3) and comparing them on the same gel</td>
   </tr>
+  <tr>
+    <td rowspan="2"><b>Lab 8</b></td>
+    <td>Exercise 1</td>
+    <td>Promoter patterns: C+G % and Kappa index of coincidence in a sliding window, centers of weight, comparison with PromKappa</td>
+    <td rowspan="2"><a href="lab8/lab8.ipynb">lab8.ipynb</a></td>
+  </tr>
+  <tr>
+    <td>Exercise 2</td>
+    <td>Sequence diversity: sigma(s) = 100 - Kappa IC</td>
+  </tr>
 </table>

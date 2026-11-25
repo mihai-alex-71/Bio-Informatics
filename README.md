@@ -95,4 +95,10 @@ Laboratory work for the **Bio-Informatics** course (Year 4, Semester 1).
     <td>Exercise 2</td>
     <td>Global alignment of two DNA sequences (Needleman-Wunsch): score matrix, traceback, alignment</td>
   </tr>
+  <tr>
+    <td><b>Lab 9</b></td>
+    <td>Exercise 1</td>
+    <td>DNA motif finding (exon-intron border): count matrix, position weight matrix (relative frequencies), log-likelihood matrix, scoring sliding windows over a sequence S</td>
+    <td><a href="lab9/lab9.ipynb">lab9.ipynb</a></td>
+  </tr>
 </table>
